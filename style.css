@@ -1,0 +1,40 @@
+body {
+    background-color: seagreen;
+}
+
+header {
+    text-align: center;
+}
+
+h1{
+    color: black;
+    border: solid white 5px;
+    background-color: #F2E661;
+    padding: 10px;
+}
+
+li{
+    border: solid white 2px;
+    display: inline;
+    background-color: #F2E661;
+    padding: 5px;
+    margin: 50px;
+}
+
+main {
+    text-align: center;
+}
+
+img{
+    margin: 10px;
+}
+
+footer {
+    text-align: right;
+    color:darkred;
+}
+
+section{
+    background-color: darkseagreen;
+    border: white 10px;
+}
