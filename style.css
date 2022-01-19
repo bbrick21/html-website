@@ -14,7 +14,7 @@ h1{
 }
 
 h2{
-    color: let(colorchoice);
+    color: white;
     padding: 10px;
     background-color: darkseagreen;
 }
