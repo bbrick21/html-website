@@ -13,6 +13,12 @@ h1{
     padding: 10px;
 }
 
+h2{
+    color: let(colorchoice);
+    padding: 10px;
+    background-color: darkseagreen;
+}
+
 li{
     border: solid white 2px;
     display: inline;
